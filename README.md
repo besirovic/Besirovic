@@ -1,4 +1,4 @@
-<!--
+
 #### Hi there 👋 It's me
 ### Ademir Beširović
 ##### Expertised Frontend Engineer with over 13 years of experience in developing  applications
@@ -19,8 +19,8 @@ or visit my website https://ademirbesirovic.dev
 
 Need more details? [Download my resume]()
 
--->
 
+<!--
 #### Hi there 👋 It's me
 ### Ademir Beširović
 ##### Expertised Frontend Engineer with over 13 years of experience in developing  applications
@@ -41,7 +41,7 @@ Senior Software Engineer at [@toptal](http://github.com/toptal)
 Need more details?
 
 ![Resume](https://img.shields.io/badge/Download%20my%20resume-%23000?logo=files&logoColor=%23fff&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fademir-besirovic%2F)
-
+-->
 
 
 
