@@ -1,9 +1,9 @@
 
 #### Hi there 👋 It's me
 ### Ademir Beširović
-##### Expertised Frontend Engineer with over 13 years of experience in developing  applications
+##### Expertised Frontend Engineer with over 13 years of experience in developing web applications
 
-Senior Software Engineer at [@toptal](http://github.com/toptal)
+Currently employed as Senior Software Engineer at [@toptal](http://github.com/toptal)
 
 ##### Technoligis 
 [![My Skills](https://skillicons.dev/icons?i=javascript,typescript,nodejs,react,graphql,electron,nestjs,nextjs,tailwind&theme=dark)](http://github.com/besirovic/besirovic)
@@ -17,7 +17,7 @@ Senior Software Engineer at [@toptal](http://github.com/toptal)
 
 or visit my website https://ademirbesirovic.dev
 
-Need more details? [Download my resume]()
+Need more details? [Download my resume](https://ademirbesirovic.dev/static/ademir-besirovic.pdf)
 
 
 <!--
